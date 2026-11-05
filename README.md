@@ -18,7 +18,7 @@ The knowledge annotations contain **14 numerical attributes** organized into fiv
 | Continuity | 1 | Local continuity measured through neighborhood occupancy |
 | Fragmentation | 2 | Fragmentation score and boundary density |
 
-The formal experimental subset contains **2,774 high-confidence samples**, divided into 2,224 training, 278 validation, and 272 reference samples. Character images and masks are normalized to **64 × 64** pixels.
+The formal experimental subset contains **8355 high-confidence samples**. Character images and masks are normalized to **64 × 64** pixels.
 
 ## CRND-Degraded (CRND-D)
 
